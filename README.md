@@ -15,6 +15,8 @@ A modern, full-featured web application for book enthusiasts to discover, review
 - **User Profiles** – View reviewer activity and contribution history
 - **Responsive Design** – Mobile-friendly interface powered by modern HTML/CSS
 
+<img width="1321" height="577" alt="image" src="https://github.com/user-attachments/assets/24214a0b-ee75-4d8d-b484-98f39737239c" />
+
 ---
 
 ## 🛠️ Tech Stack
